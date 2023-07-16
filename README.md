@@ -23,8 +23,7 @@ The Decoder is another bidirectional GRU layer. It generates the output sequence
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
-```
+https://github.com/mohamed-em2m/chatbot_seq2seq_with_attention_pytorch.git ```
 
 2. Make sure you have PyTorch installed. Install the required libraries if necessary.
 
@@ -54,13 +53,12 @@ This implementation is based on the Seq2Seq model with Bahdanau Attention propos
 
 ## License
 
-[Include license information if applicable]
 
 Feel free to contribute, report issues, or suggest improvements!
 
 ## Note
 
-Replace `your_username/your_repository` with your GitHub username and repository name to correctly clone your project.
+Replace `mohamed-em2m/chatbot_seq2seq_with_attention_pytorch.git` with your GitHub username and repository name to correctly clone your project.
 
 Please modify the content above according to your specific project details, including any license information, acknowledgments, and other relevant details. Markdown syntax is used to format the text, so you can use headings, lists, code blocks, and more to make your README.md clear and informative.
 
